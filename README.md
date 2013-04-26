@@ -1,0 +1,4 @@
+structure
+=========
+
+Small project structure
