@@ -1,0 +1,20 @@
+/* 
+
+Colors
+=====================
+yellowgreen = #E5F04C
+darkgray = #292C37 
+
+*/
+body{
+	color:#F1EFA5;
+}
+
+/* Delete test style */
+#messages{margin:100px auto;width:378px;}
+#messages * { padding:11px;	border-radius: 7px;}
+#jquery_error {	background: #B11623; display:block; }
+#jquery_success { display:none;	background: #E5F04C;color:#292C37;}
+.js #jquery_success { display:block;}
+.js #jquery_error {	display:none;}
+/* End delete test style*/
